@@ -1,9 +1,11 @@
-Name:  Yuan-Kai “Kevin” Yang  
-Role:  Tutor  
-Team:  PrairieLearn (I think?)  
-Year at UCSD in fall: 3
+# Yuan-Kai “Kevin” Yang  
+* Role:  Tutor  
+* Team:  PrairieLearn *and Lecture Summaries*
+* Year at UCSD: 4
 
-Favorite CSE29 topic: Bitwise Operations  
+
+## Favorites
+Favorite CSE29 topic: *Bitwise Operations* 
 Favorite UCSD class: CSE 100
 
 Favorite food:  Udon noodles  
