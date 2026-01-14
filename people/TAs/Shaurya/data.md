@@ -9,4 +9,5 @@ Favorite drink: Chai  ☕\
 Favorite emoji: :alien: \
 Favorite ascii string: \~HELLO WORLD\~ \
 Favorite spot on campus: Old student center \
-Favorite food at/ around UCSD: Croutons
+Favorite food at/ around UCSD: Croutons \
+Favorite book: [The Master and Margarita](https://en.wikipedia.org/wiki/The_Master_and_Margarita)
